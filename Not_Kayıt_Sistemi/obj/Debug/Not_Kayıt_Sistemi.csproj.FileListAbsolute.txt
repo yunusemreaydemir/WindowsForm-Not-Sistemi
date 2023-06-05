@@ -1,0 +1,13 @@
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\bin\Debug\Not_Kayıt_Sistemi.exe.config
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\bin\Debug\Not_Kayıt_Sistemi.exe
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\bin\Debug\Not_Kayıt_Sistemi.pdb
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.AssemblyReference.cache
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.FrmGiris.resources
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.FrmOgrenciDetay.resources
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.FrmOgretmenDetay.resources
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.GenerateResource.cache
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.exe
+C:\Users\AYDEMİR\Source\Repos\Not_Kayıt_Sistemi\Not_Kayıt_Sistemi\obj\Debug\Not_Kayıt_Sistemi.pdb
